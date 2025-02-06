@@ -1,16 +1,16 @@
-# handson_studygrup4
+## Hands On Study Grup #4 Google Developer Group on Campus Telkom University
+### Nama : Muhammad Gavin Arasyi
+### NIM : 103012300262
+### Prodi : S1 Informatika 2023
 
-A new Flutter project.
+# Class Diagram
+![alt text](https://github.com/NamkuGavin/handsOn_studyGrup-4GDGoC_Apps/blob/main/screenshot/apps/flutter_testing.jpg)
 
-## Getting Started
+# Visualisasi Hasil Run Code di Command Prompt
+![alt text](https://github.com/NamkuGavin/handsOn_studyGrup-4GDGoC_Apps/blob/main/screenshot/commandLine/test1.png)
+![alt text](https://github.com/NamkuGavin/handsOn_studyGrup-4GDGoC_Apps/blob/main/screenshot/commandLine/test2.png)
+![alt text](https://github.com/NamkuGavin/handsOn_studyGrup-4GDGoC_Apps/blob/main/screenshot/commandLine/test3.png)
+![alt text](https://github.com/NamkuGavin/handsOn_studyGrup-4GDGoC_Apps/blob/main/screenshot/commandLine/test4.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Aplikasi Running
+![alt text](https://github.com/NamkuGavin/handsOn_studyGrup-4GDGoC_Apps/blob/main/screenshot/apps/flutter_testing.jpg)
