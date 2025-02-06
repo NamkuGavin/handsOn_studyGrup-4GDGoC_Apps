@@ -4,7 +4,7 @@
 ### Prodi : S1 Informatika 2023
 
 # Class Diagram
-![alt text](https://github.com/NamkuGavin/handsOn_studyGrup-4GDGoC_Apps/blob/main/screenshot/apps/flutter_testing.jpg)
+![alt text](https://github.com/NamkuGavin/handsOn_studyGrup-4GDGoC_Apps/blob/main/screenshot/diagramClass.png)
 
 # Visualisasi Hasil Run Code di Command Prompt
 ![alt text](https://github.com/NamkuGavin/handsOn_studyGrup-4GDGoC_Apps/blob/main/screenshot/commandLine/test1.png)
